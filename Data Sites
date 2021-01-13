@@ -1,10 +1,15 @@
-// Add the link to the sites and the sites here.
+Links to the sites from where data is collected.
 
+ 1. Data for Health Sector 
+ https://www.covid19india.org/
+ https://uidai.gov.in/images/state-wise-aadhaar-saturation.pdf(Used for state population)
+
+2. Data for Employment Sector
 State-wise Unemployement Rate Data (Jan 2016 - Aug 2020) {site- CMIE (Center for Monitoring Indian Economy) 
   https://unemploymentinindia.cmie.com/kommon/bin/sr.php?kall=wsttimeseries&index_code=050050000000&dtype=total
   
-  //
-  2. Data for Health Department 
-      https://www.covid19india.org/
-      https://uidai.gov.in/images/state-wise-aadhaar-saturation.pdf(Used for state population)
-
+3. Data for Economy Sector:
+For August
+https://www.google.com/url?sa=t&source=web&rct=j&url=https://pib.gov.in/PressReleaseIframePage.aspx%3FPRID%3D1650411&ved=2ahUKEwias8mh7PHrAhXa6XMBHY0CCfUQFjABegQIDRAH&usg=AOvVaw11DrmupBrskq91JCBX4G1G&cshid=1600405005043
+For rest of the months:
+   http://gstcouncil.gov.in/gst-revenue
